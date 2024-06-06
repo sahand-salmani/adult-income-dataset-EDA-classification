@@ -1,4 +1,4 @@
-# Adult Income EDA and Prediction
+# Adult Income EDA and Classification
 
 ## Dataset Overview
 This project involves a comprehensive analysis of a dataset with the following columns:
